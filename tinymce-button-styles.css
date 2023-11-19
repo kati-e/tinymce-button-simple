@@ -1,0 +1,15 @@
+/* EDITOR BUTTON STYLES */
+#wp-content-editor-container .mce-klc-tinymce {
+    font-size: 1rem;
+    background-color: black;
+    padding: 0.1rem 0.3rem;
+    border: 1px solid white;
+    border-radius: 0.3rem;
+    box-shadow: unset;
+}
+#wp-content-editor-container .mce-klc-tinymce:hover {
+    box-shadow: unset;
+}
+#wp-content-editor-container .mce-klc-tinymce .mce-txt {
+    color: white;
+}
