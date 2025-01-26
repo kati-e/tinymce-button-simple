@@ -1,3 +1,7 @@
+I am no longer actively working on this project, therefore I've archived it. You can use the code and make your own implementation as you like :)
+
+-------------------
+
 Simple WordPress Plugin that add a button that inserts a shorcode into your editor on posts or pages within the WordPress dashboard.
 
 In this instance I am using it to add certain sections between content in my blog posts. I wanted to make a conversion magnet banner design that can be inserted within a blog post anywhere the user needs it.
